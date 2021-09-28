@@ -1,2 +1,2 @@
 # Alien-Invasion
-A alien invasion game from the book Python Crash Course.
+A simple alien invasion game from the book Python Crash Course.
